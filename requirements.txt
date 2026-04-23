@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+streamlit
+numpy
+pandas
+yt-dlp
+tensorflow
+tensorflow-hub
+librosa
