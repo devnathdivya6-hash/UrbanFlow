@@ -150,7 +150,7 @@ python main.py
 ## 👨‍💻 Contributors
 
 - Devnath P 
-- Rohan Ram
+- [Rohan Ram](https://github.com/RohanRam)
 - Aadish K
 - Addwin Stephen 
 
