@@ -151,8 +151,8 @@ python main.py
 
 - Devnath P 
 - [Rohan Ram](https://github.com/RohanRam)
-- Aadish K
-- Addwin Stephen 
+- [Aadish K](https://github.com/Aadishk)
+- [Addwin Antony Stephen](https://github.com/Addwin2004) 
 
 ---
 
